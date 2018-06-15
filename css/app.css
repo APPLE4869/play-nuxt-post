@@ -1,0 +1,10 @@
+body {
+  font-family: Trebuchet MS,Arial,Helvetica,ヒラギノ角ゴ Pro W3,Hiragino Kaku Gothic Pro,メイリオ,Meiryo,ＭＳ\ Ｐゴシック,MS PGothic,sans-serif;
+  color: #404040;
+}
+
+h1 {
+  font-size: 23px;
+  margin-bottom: 15px;
+  color: #35495e;
+}
