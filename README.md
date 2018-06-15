@@ -1,0 +1,2 @@
+# nuxt-sample
+Nuxt.jsのサンプル
